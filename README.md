@@ -45,7 +45,7 @@ Analyze mechanical power transfer between gears.
 - Engineering Calculations
 - Data Analysis
 - Problem Solving
-- 
+  
 ![Gear Train & Power Transmission Calculator](Geartrain.jpg)
 
 ## Future Improvements

@@ -56,10 +56,11 @@ Analyze mechanical power transfer between gears.
 - Mechanical System Simulation
 
 ## Project Files
-- Python Source Code
+- [Python Source Code](gear_train_calculator.py)
 - Engineering Calculations
 - Visualizations
-- Documentation
+- [Engineering Notebook](Gear_Train_Power_Transmission_Calculator_Engineering_Notebook_Summary.pdf)
+- [Project Report ](Gear_Train_Power_Transmission_Calculator_Project_Report.pdf)
 
 ## Author
 
